@@ -27,7 +27,7 @@ echo "config.db"
 sleep 1
 echo "$j.db"
 sleep 1
-echo "copy flash tftp 192.168.201.225"
+echo "copy flash tftp 6.6.6.6"
 sleep 1
 echo "ifindex-config"
 sleep 1
